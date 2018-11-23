@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F19442421A8503700D64489 /* MapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F19442321A8503700D64489 /* MapViewModel.swift */; };
 		0FC57C0E21A7EFB8007ABB17 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC57C0D21A7EFB8007ABB17 /* AppDelegate.swift */; };
 		0FC57C1021A7EFB8007ABB17 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC57C0F21A7EFB8007ABB17 /* ViewController.swift */; };
 		0FC57C1321A7EFB8007ABB17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FC57C1121A7EFB8007ABB17 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F19442321A8503700D64489 /* MapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewModel.swift; sourceTree = "<group>"; };
 		0FC57C0A21A7EFB8007ABB17 /* Dont.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dont.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FC57C0D21A7EFB8007ABB17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FC57C0F21A7EFB8007ABB17 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		0F19442021A84F2D00D64489 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				0F19442321A8503700D64489 /* MapViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				0FC57C4121A8160E007ABB17 /* Coordinator.swift in Sources */,
 				0FC57C1021A7EFB8007ABB17 /* ViewController.swift in Sources */,
 				0FC57C0E21A7EFB8007ABB17 /* AppDelegate.swift in Sources */,
+				0F19442421A8503700D64489 /* MapViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
