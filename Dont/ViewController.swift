@@ -23,6 +23,8 @@ class ViewController: UIViewController {
         view.addSubview(label)
     }
 
-
+    @IBAction func buttonClicked(_ sender: UIButton) {
+        print("You finished!")
+    }
 }
 
